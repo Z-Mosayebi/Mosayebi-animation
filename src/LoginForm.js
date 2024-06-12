@@ -40,7 +40,7 @@ function LoginForm() {
             <label className="text-sm" htmlFor="teamLead">Are you a team or project lead?</label>
           </div>
           <div className="mb-6 text-center">
-            <a href="#" className="text-sm text-blue-500">Already have a login?</a>
+            <a href="index.html" className="text-sm text-blue-500">Already have a login?</a>
           </div>
           <div>
             <button className="w-full bg-red-500 text-white py-2 rounded-md" type="submit">Agree and Continue</button>
