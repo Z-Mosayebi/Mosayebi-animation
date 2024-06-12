@@ -40,7 +40,7 @@ function App() {
           onClick={handlePlaySound} 
           className="fixed top-4 right-4 bg-[#ff4d58] text-white p-4 rounded-full z-50 flex items-center justify-center"
         >
-          <i className="fas fa-volume-up"></i>
+          <i className="fas fa-volume-mute"></i>
         </button>
       )}
       <div className="absolute top-0 left-0 right-0 h-full w-full">
